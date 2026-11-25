@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "filename": "01_red_ruby_teardrop.png",
+    "display_name": "Red Ruby — Teardrop Cut",
+    "category": "Gemstones & Crystals"
+  },
+  {
+    "index": 10,
+    "filename": "10_glowing_blue_crystal_shard.png",
+    "display_name": "Glowing Blue Crystal Shard",
+    "category": "Gemstones & Crystals"
+  },
+  {
+    "index": 17,
+    "filename": "17_undyed_linen_roll.png",
+    "display_name": "Undyed Linen Roll",
+    "category": "Textiles & Leather"
+  },
+  {
+    "index": 24,
+    "filename": "24_scaled_leather_scrap.png",
+    "display_name": "Scaled Leather Scrap",
+    "category": "Textiles & Leather"
+  },
+  {
+    "index": 33,
+    "filename": "33_crusty_bread_loaf.png",
+    "display_name": "Crusty Bread Loaf",
+    "category": "Food & Drink"
+  },
+  {
+    "index": 45,
+    "filename": "45_ale_tankard.png",
+    "display_name": "Ale Tankard",
+    "category": "Food & Drink"
+  },
+  {
+    "index": 56,
+    "filename": "56_slime_blob.png",
+    "display_name": "Translucent Slime Blob",
+    "category": "Monster Parts"
+  },
+  {
+    "index": 57,
+    "filename": "57_monster_eye.png",
+    "display_name": "Glassy Monster Eye",
+    "category": "Monster Parts"
+  },
+  {
+    "index": 65,
+    "filename": "65_iron_ore.png",
+    "display_name": "Iron Ore",
+    "category": "Metals & Ores"
+  },
+  {
+    "index": 72,
+    "filename": "72_gold_ingot.png",
+    "display_name": "Gold Ingot",
+    "category": "Metals & Ores"
+  },
+  {
+    "index": 82,
+    "filename": "82_red_mushrooms.png",
+    "display_name": "Speckled Red Mushrooms",
+    "category": "Alchemy & Crafting Materials"
+  },
+  {
+    "index": 93,
+    "filename": "93_green_liquid_vial.png",
+    "display_name": "Green Liquid Vial",
+    "category": "Alchemy & Crafting Materials"
+  },
+  {
+    "index": 99,
+    "filename": "99_anvil.png",
+    "display_name": "Anvil",
+    "category": "Tools & Workshop"
+  },
+  {
+    "index": 109,
+    "filename": "109_glass_alembic.png",
+    "display_name": "Glass Alembic Still",
+    "category": "Tools & Workshop"
+  },
+  {
+    "index": 113,
+    "filename": "113_cut_log.png",
+    "display_name": "Cut Log",
+    "category": "Wood & Plant Materials"
+  },
+  {
+    "index": 125,
+    "filename": "125_acorns.png",
+    "display_name": "Acorns",
+    "category": "Wood & Plant Materials"
+  },
+  {
+    "index": 129,
+    "filename": "129_blue_potion_vial.png",
+    "display_name": "Glowing Blue Potion Vial",
+    "category": "Arcane & Magical Materials"
+  },
+  {
+    "index": 139,
+    "filename": "139_flame_jar.png",
+    "display_name": "Suspended Flame Jar",
+    "category": "Arcane & Magical Materials"
+  },
+  {
+    "index": 145,
+    "filename": "145_gold_coin.png",
+    "display_name": "Gold Coin",
+    "category": "Treasure & Valuables"
+  },
+  {
+    "index": 151,
+    "filename": "151_open_treasure_chest.png",
+    "display_name": "Open Treasure Chest",
+    "category": "Treasure & Valuables"
+  }
+]

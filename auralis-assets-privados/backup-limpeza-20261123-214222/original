@@ -1,0 +1,76 @@
+ .gitignore                                         |    3 [32m+[m
+ .../quaternius-modular/License_Standard.txt        |   20 [32m+[m
+ .../Modular Parts/Female_Peasant_Arms.bin          |  Bin [31m0[m -> [32m327920[m bytes
+ .../Modular Parts/Female_Peasant_Arms.gltf         | 1555 [32m+++++[m
+ .../Modular Parts/Female_Peasant_Body.bin          |  Bin [31m0[m -> [32m203524[m bytes
+ .../Modular Parts/Female_Peasant_Body.gltf         | 6094 [32m++++++++++++++++++++[m
+ .../Modular Parts/Female_Peasant_Feet.bin          |  Bin [31m0[m -> [32m140776[m bytes
+ .../Modular Parts/Female_Peasant_Feet.gltf         | 1583 [32m+++++[m
+ .../Modular Parts/Female_Peasant_Legs.bin          |  Bin [31m0[m -> [32m74376[m bytes
+ .../Modular Parts/Female_Peasant_Legs.gltf         | 1555 [32m+++++[m
+ .../Modular Parts/Female_Ranger_Acc_Pauldrons.bin  |  Bin [31m0[m -> [32m91040[m bytes
+ .../Modular Parts/Female_Ranger_Acc_Pauldrons.gltf | 1597 [32m+++++[m
+ .../Modular Parts/Female_Ranger_Arms.bin           |  Bin [31m0[m -> [32m557480[m bytes
+ .../Modular Parts/Female_Ranger_Arms.gltf          | 1921 [32m++++++[m
+ .../Modular Parts/Female_Ranger_Body.bin           |  Bin [31m0[m -> [32m421432[m bytes
+ .../Modular Parts/Female_Ranger_Body.gltf          | 1915 [32m++++++[m
+ .../Modular Parts/Female_Ranger_Feet.bin           |  Bin [31m0[m -> [32m791720[m bytes
+ .../Modular Parts/Female_Ranger_Feet.gltf          | 1597 [32m+++++[m
+ .../Modular Parts/Female_Ranger_Head_Hood.bin      |  Bin [31m0[m -> [32m106256[m bytes
+ .../Modular Parts/Female_Ranger_Head_Hood.gltf     | 1597 [32m+++++[m
+ .../Modular Parts/Female_Ranger_Legs.bin           |  Bin [31m0[m -> [32m74404[m bytes
+ .../Modular Parts/Female_Ranger_Legs.gltf          | 1623 [32m++++++[m
+ .../Modular Parts/Male_Peasant_Arms.bin            |  Bin [31m0[m -> [32m274868[m bytes
+ .../Modular Parts/Male_Peasant_Arms.gltf           | 1748 [32m++++++[m
+ .../Modular Parts/Male_Peasant_Body.bin            |  Bin [31m0[m -> [32m219680[m bytes
+ .../Modular Parts/Male_Peasant_Body.gltf           | 1558 [32m+++++[m
+ .../Modular Parts/Male_Peasant_Feet.bin            |  Bin [31m0[m -> [32m139880[m bytes
+ .../Modular Parts/Male_Peasant_Feet.gltf           | 1558 [32m+++++[m
+ .../Modular Parts/Male_Peasant_Legs.bin            |  Bin [31m0[m -> [32m52816[m bytes
+ .../Modular Parts/Male_Peasant_Legs.gltf           | 1558 [32m+++++[m
+ .../Modular Parts/Male_Ranger_Acc_Pauldron.bin     |  Bin [31m0[m -> [32m69200[m bytes
+ .../Modular Parts/Male_Ranger_Acc_Pauldron.gltf    | 1530 [32m+++++[m
+ .../Modular Parts/Male_Ranger_Arms.bin             |  Bin [31m0[m -> [32m252752[m bytes
+ .../Modular Parts/Male_Ranger_Arms.gltf            | 1748 [32m++++++[m
+ .../Modular Parts/Male_Ranger_Body.bin             |  Bin [31m0[m -> [32m309108[m bytes
+ .../Modular Parts/Male_Ranger_Body.gltf            | 1766 [32m++++++[m
+ .../Modular Parts/Male_Ranger_Feet_Boots.bin       |  Bin [31m0[m -> [32m710328[m bytes
+ .../Modular Parts/Male_Ranger_Feet_Boots.gltf      | 1558 [32m+++++[m
+ .../Modular Parts/Male_Ranger_Head_Hood.bin        |  Bin [31m0[m -> [32m96336[m bytes
+ .../Modular Parts/Male_Ranger_Head_Hood.gltf       | 1558 [32m+++++[m
+ .../Modular Parts/Male_Ranger_Legs.bin             |  Bin [31m0[m -> [32m52144[m bytes
+ .../Modular Parts/Male_Ranger_Legs.gltf            | 1558 [32m+++++[m
+ .../Modular Parts/T_Peasant_BaseColor.png          |  Bin [31m0[m -> [32m5055760[m bytes
+ .../Modular Parts/T_Peasant_Normal.png             |  Bin [31m0[m -> [32m14110336[m bytes
+ .../Modular Parts/T_Peasant_ORM.png                |  Bin [31m0[m -> [32m9903835[m bytes
+ .../Modular Parts/T_Ranger_BaseColor.png           |  Bin [31m0[m -> [32m6630927[m bytes
+ .../Modular Parts/T_Ranger_Normal.png              |  Bin [31m0[m -> [32m12713653[m bytes
+ .../Modular Parts/T_Ranger_ORM.png                 |  Bin [31m0[m -> [32m10792085[m bytes
+ .../T_Regular_Female_Dark_BaseColor.png            |  Bin [31m0[m -> [32m1348542[m bytes
+ .../Modular Parts/T_Regular_Female_Normal.png      |  Bin [31m0[m -> [32m3913459[m bytes
+ .../Modular Parts/T_Regular_Female_Roughness.png   |  Bin [31m0[m -> [32m3274215[m bytes
+ .../T_Regular_Male_Dark_BaseColor.png              |  Bin [31m0[m -> [32m1316151[m bytes
+ .../Modular Parts/T_Regular_Male_Normal.png        |  Bin [31m0[m -> [32m4064184[m bytes
+ .../Modular Parts/T_Regular_Male_Roughness.png     |  Bin [31m0[m -> [32m3160102[m bytes
+ .../quaternius-modular/Outfits/Female_Peasant.bin  |  Bin [31m0[m -> [32m658600[m bytes
+ .../quaternius-modular/Outfits/Female_Peasant.gltf | 1923 [32m++++++[m
+ .../quaternius-modular/Outfits/Female_Ranger.bin   |  Bin [31m0[m -> [32m1959556[m bytes
+ .../quaternius-modular/Outfits/Female_Ranger.gltf  | 2957 [32m++++++++++[m
+ .../quaternius-modular/Outfits/Male_Peasant.bin    |  Bin [31m0[m -> [32m674764[m bytes
+ .../quaternius-modular/Outfits/Male_Peasant.gltf   | 2144 [32m+++++++[m
+ .../quaternius-modular/Outfits/Male_Ranger.bin     |  Bin [31m0[m -> [32m1746884[m bytes
+ .../quaternius-modular/Outfits/Male_Ranger.gltf    | 2720 [32m+++++++++[m
+ .../Outfits/T_Peasant_BaseColor.png                |  Bin [31m0[m -> [32m5055760[m bytes
+ .../Outfits/T_Peasant_Normal.png                   |  Bin [31m0[m -> [32m14110336[m bytes
+ .../quaternius-modular/Outfits/T_Peasant_ORM.png   |  Bin [31m0[m -> [32m9903835[m bytes
+ .../Outfits/T_Ranger_BaseColor.png                 |  Bin [31m0[m -> [32m6630927[m bytes
+ .../quaternius-modular/Outfits/T_Ranger_Normal.png |  Bin [31m0[m -> [32m12713653[m bytes
+ .../quaternius-modular/Outfits/T_Ranger_ORM.png    |  Bin [31m0[m -> [32m10792085[m bytes
+ .../Outfits/T_Regular_Female_Dark_BaseColor.png    |  Bin [31m0[m -> [32m1348542[m bytes
+ .../Outfits/T_Regular_Female_Normal.png            |  Bin [31m0[m -> [32m3913459[m bytes
+ .../Outfits/T_Regular_Female_Roughness.png         |  Bin [31m0[m -> [32m3274215[m bytes
+ .../Outfits/T_Regular_Male_Dark_BaseColor.png      |  Bin [31m0[m -> [32m1316151[m bytes
+ .../Outfits/T_Regular_Male_Normal.png              |  Bin [31m0[m -> [32m4064184[m bytes
+ .../Outfits/T_Regular_Male_Roughness.png           |  Bin [31m0[m -> [32m3160102[m bytes
+ .../characters/quaternius-modular/Readme.txt       |    5 [32m+[m
+ 75 files changed, 46949 insertions(+)

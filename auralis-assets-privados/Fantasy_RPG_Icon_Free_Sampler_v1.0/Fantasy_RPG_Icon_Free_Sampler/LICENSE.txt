@@ -1,0 +1,121 @@
+FANTASY RPG ICON FREE SAMPLER ASSET LICENCE
+Version 1.0 — 4 September 2026
+
+Licensor: Luke Robertson
+
+This licence applies to the 20 icons, documentation and other materials in the
+Fantasy RPG Icon Free Sampler (the "Assets"). By downloading or using the
+Assets, you agree to these terms.
+
+1. LICENCE GRANT
+
+Luke Robertson grants each person or organisation that lawfully downloads the
+Assets (the "Licensee") a non-exclusive, worldwide, perpetual licence to:
+
+- use the Assets in any number of personal or commercial projects;
+- use the Assets in games, applications, websites, videos, streams, printed
+  materials, promotional material and other creative works;
+- crop, resize, recolour, animate, adapt or otherwise modify the Assets; and
+- distribute the Assets only when incorporated into a larger finished project
+  and not offered as standalone files.
+
+No royalties or licence fees are payable for these permitted uses.
+
+2. ATTRIBUTION
+
+Attribution is optional. Suggested wording:
+
+    Fantasy RPG Icon Pack by Luke Robertson
+
+3. TEAMS, CONTRACTORS AND CLIENT WORK
+
+If the Licensee is a business or organisation, its employees may use the
+Assets for that organisation's projects.
+
+The Licensee may share the Assets with contractors or collaborators who need
+them for the Licensee's project. Those people may use the Assets only for that
+project, must follow this licence and must delete their separate copies when
+their work ends.
+
+The Assets may be used in commissioned work for a client. A client may receive
+the finished project, including project files that necessarily contain the
+Assets, but may not extract or reuse the Assets in another project unless the
+client separately downloads the sampler or obtains the full pack.
+
+4. RESTRICTIONS
+
+The Licensee must not:
+
+- sell, share, give away, sublicense or redistribute the Assets as standalone
+  files, whether in their original or modified form;
+- repackage the Assets as another asset pack, stock library, template, starter
+  kit or similar product;
+- make the Assets available through a public repository, shared asset library,
+  file-sharing service or other source from which they can be readily extracted;
+- use the Assets, or permit them to be used, to train, fine-tune, evaluate or
+  build an artificial-intelligence or machine-learning model or dataset;
+- use the Assets in connection with cryptocurrency, blockchain products, NFTs
+  or similar tokenised products;
+- register an Asset, or a substantially unchanged version, as a logo, trade
+  mark, service mark or other exclusive brand identifier;
+- claim that the Assets were exclusively created by the Licensee; or
+- use the Assets unlawfully or in a way that infringes another person's rights.
+
+These restrictions do not prevent normal distribution of a finished game,
+application, video or other permitted project merely because its installed or
+compiled files contain the Assets as ordinary project resources. The Licensee
+should take reasonable steps to prevent the Assets from being presented as a
+separate downloadable collection.
+
+5. OWNERSHIP AND AI DISCLOSURE
+
+The base artwork was created using generative AI and was subsequently curated,
+selected, processed, consistently framed, named and exported. The Assets are
+not represented as traditionally hand-drawn artwork.
+
+The Licensor retains any rights that may exist in the Assets, including their
+human-authored selection, arrangement, processing, documentation and
+packaging. The Licensee receives permission to use the Assets under this
+licence but does not acquire ownership of the sampler itself.
+
+Because laws concerning AI-generated material continue to develop, the
+Licensor does not promise that every Asset qualifies for copyright protection,
+is unique or is exclusive. This licence grants only the rights the Licensor is
+legally able to grant.
+
+6. NO TRADE MARK OR THIRD-PARTY CLEARANCE
+
+No third-party brand, character, logo or trade mark is intentionally included.
+The Licensor does not guarantee that an Asset cannot resemble other material.
+The Licensee is responsible for deciding whether an Asset is suitable for its
+intended context and for obtaining any additional clearance required.
+
+7. WARRANTIES AND LIABILITY
+
+The Assets are supplied "as is" without guarantees of uniqueness, fitness for
+a particular purpose or compatibility with particular software.
+
+Nothing in this licence excludes, restricts or modifies any consumer guarantee,
+right or remedy that cannot lawfully be excluded under the Australian Consumer
+Law or other applicable law. To the maximum extent permitted by law, the
+Licensor's liability relating to the Assets is limited, at the Licensor's
+option, to replacement of the Assets or a refund of any amount paid for them.
+
+8. TERMINATION
+
+This licence ends if the Licensee materially breaches its terms and does not
+correct the breach within 14 days after receiving written notice. After
+termination, the Licensee must stop using and distributing the Assets and
+delete all copies under its control, except where retention is required by law.
+
+9. GOVERNING LAW
+
+This licence is governed by the laws of Queensland, Australia, and applicable
+Commonwealth laws. The parties submit to the courts having jurisdiction in
+Queensland, subject to any rights that cannot lawfully be limited.
+
+10. COMPLETE TERMS
+
+This document contains the complete asset licence supplied with the sampler.
+If a store page contains a shorter summary, this document controls if there is
+any inconsistency.

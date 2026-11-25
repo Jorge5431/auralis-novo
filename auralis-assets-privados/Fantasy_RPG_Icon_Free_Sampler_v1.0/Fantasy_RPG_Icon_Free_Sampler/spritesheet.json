@@ -1,0 +1,150 @@
+{
+  "image": "spritesheet.png",
+  "cell_size": 256,
+  "columns": 5,
+  "rows": 4,
+  "width": 1280,
+  "height": 1024,
+  "sprites": [
+    {
+      "name": "01_red_ruby_teardrop",
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "10_glowing_blue_crystal_shard",
+      "x": 256,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "17_undyed_linen_roll",
+      "x": 512,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "24_scaled_leather_scrap",
+      "x": 768,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "33_crusty_bread_loaf",
+      "x": 1024,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "45_ale_tankard",
+      "x": 0,
+      "y": 256,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "56_slime_blob",
+      "x": 256,
+      "y": 256,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "57_monster_eye",
+      "x": 512,
+      "y": 256,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "65_iron_ore",
+      "x": 768,
+      "y": 256,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "72_gold_ingot",
+      "x": 1024,
+      "y": 256,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "82_red_mushrooms",
+      "x": 0,
+      "y": 512,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "93_green_liquid_vial",
+      "x": 256,
+      "y": 512,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "99_anvil",
+      "x": 512,
+      "y": 512,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "109_glass_alembic",
+      "x": 768,
+      "y": 512,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "113_cut_log",
+      "x": 1024,
+      "y": 512,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "125_acorns",
+      "x": 0,
+      "y": 768,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "129_blue_potion_vial",
+      "x": 256,
+      "y": 768,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "139_flame_jar",
+      "x": 512,
+      "y": 768,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "145_gold_coin",
+      "x": 768,
+      "y": 768,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "151_open_treasure_chest",
+      "x": 1024,
+      "y": 768,
+      "width": 256,
+      "height": 256
+    }
+  ]
+}
